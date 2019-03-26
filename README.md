@@ -23,3 +23,18 @@ The data can be obtained from the [book site](https://web.stanford.edu/~hastie/C
 ## Possible errata or differences with the book
 
 - Section 2.1: I get slightly different values for Table 2.1
+
+
+## To do
+
+- Section 4.3: Figure 4.2
+
+
+## Contributing
+
+Corrections and contributions are welcome. Please check the list below before submitting contributions.
+
+### DO NOT contribute
+
+- Section 4.1: the calculation of equation 4.10. This is homework exercise 4.1a. This also rules out contributing Figure 4.1
+- Section 4.4: Figure 4.3. This would make homework exercise 4.5 trivial.
