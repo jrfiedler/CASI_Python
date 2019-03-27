@@ -30,6 +30,7 @@ The data can be obtained from the [book site](https://web.stanford.edu/~hastie/C
 
 - Section 4.3: Figure 4.2
 - Section 5.2: Figures 5.2 and 5.3 ?
+- Section 6.3
 
 
 ## Contributing
