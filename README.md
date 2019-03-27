@@ -11,6 +11,7 @@ Python code for _[Computer Age Statistical Inference](https://web.stanford.edu/~
 - `matplotlib`
 - `scipy`
 - `mpmath` (for section 3.1)
+- `sklearn` (scikit-learn)
 
 This code was developed with Python 3.7.
 
