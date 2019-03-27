@@ -23,6 +23,7 @@ The data can be obtained from the [book site](https://web.stanford.edu/~hastie/C
 ## Possible errata or differences with the book
 
 - Section 2.1: I get slightly different values for Table 2.1
+- Section 6.2, Table 6.3: I get different values for $\hat{sd}$. I get the same values when I drop $x$ from the exponent in Eq 6.21. See [ch06s02.ipynb](chapter06/ch06s02.ipynb).
 
 
 ## To do
