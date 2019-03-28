@@ -55,3 +55,6 @@ Corrections and contributions are welcome. Please check the list below before su
 - Section 7.4: entire section, probably. The section mainly uses JS estimates, and calculating those estimates is exercise 7.3
 - Section 8.1: Figure 8.2, Table 8.1, and Table 8.2. These are covered by exercises 8.1 and 8.3.
 - Section 8.3: entire section, probably; covered by exercise 8.6
+- Section 9.2: Figure 9.2; would probably make exercise 9.3 trivial
+- Section 9.3: Table 9.4? Might make exercise 9.4 too easy.
+- Section 9.5: Table 9.8; covered by exercise 9.7
