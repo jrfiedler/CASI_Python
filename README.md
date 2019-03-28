@@ -32,6 +32,7 @@ The data can be obtained from the [book site](https://web.stanford.edu/~hastie/C
 - Section 8.3:
     - The data page says the values in the galaxy dataset are log-redshift, but they are likely log-log-redshift, if 1.22 \leq r \leq 3.32 as equation 8.38 says
     - Equation 8.38 says 17.2 \leq m \leq 21.5, but the y-axis on figure 8.5 shows negative values, approximately -21 \leq m \leq -17
+- Section 10.4, pg 171: Equation 10.55 might give the impression that the powers of the bin counts are used in the model (i.e., that the $\hat{\beta}$ values are coefficients from the model). In fact, orthogonal polynomials are used. See [ch10s04.ipynb](chapter10/ch10s04.ipynb).
 
 
 ## To do
@@ -40,6 +41,7 @@ The data can be obtained from the [book site](https://web.stanford.edu/~hastie/C
 - Section 5.2: Figures 5.2 and 5.3 ?
 - Section 6.3
 - Section 8.4: Figure 8.7 doesn't completely match the book
+- Section 10.5: Infinitesimal jackknife / influence function s.e. for Table 10.2
 
 
 ## Contributing
@@ -58,3 +60,4 @@ Corrections and contributions are welcome. Please check the list below before su
 - Section 9.2: Figure 9.2; would probably make exercise 9.3 trivial
 - Section 9.3: Table 9.4? Might make exercise 9.4 too easy.
 - Section 9.5: Table 9.8; covered by exercise 9.7
+- Section 10.2: Figure 10.2; covered by exercise 10.3
